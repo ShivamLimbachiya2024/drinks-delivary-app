@@ -1,0 +1,64 @@
+[
+  {
+    "id": "u1",
+    "role": "admin",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "phone": "+1-555-000-0001",
+    "address": "100 Admin Plaza, Management City, CA 90001",
+    "token": null
+  },
+  {
+    "id": "u2",
+    "role": "vendor",
+    "name": "John Brew",
+    "email": "vendor1@example.com",
+    "password": "vendor123",
+    "phone": "+1-555-111-2222",
+    "address": "123 Beer Lane, Hops City, CA 90210",
+    "vendorId": "v1",
+    "token": null
+  },
+  {
+    "id": "u3",
+    "role": "vendor",
+    "name": "Sarah Wine",
+    "email": "vendor2@example.com",
+    "password": "vendor123",
+    "phone": "+1-555-222-3333",
+    "address": "456 Vineyard Road, Napa Valley, CA 94558",
+    "vendorId": "v2",
+    "token": null
+  },
+  {
+    "id": "u4",
+    "role": "customer",
+    "name": "Mike Johnson",
+    "email": "customer1@example.com",
+    "password": "customer123",
+    "phone": "+1-555-888-9999",
+    "address": "789 Customer Street, Buyer City, CA 90002",
+    "token": null
+  },
+  {
+    "id": "u5",
+    "role": "customer",
+    "name": "Emily Davis",
+    "email": "customer2@example.com",
+    "password": "customer123",
+    "phone": "+1-555-999-0000",
+    "address": "321 Shopping Lane, Purchase Town, CA 90003",
+    "token": null
+  },
+  {
+    "id": "u6",
+    "role": "customer",
+    "name": "Robert Smith",
+    "email": "customer3@example.com",
+    "password": "customer123",
+    "phone": "+1-555-111-0000",
+    "address": "654 Delivery Drive, Order City, CA 90004",
+    "token": null
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "v1",
+    "name": "Brew House",
+    "email": "vendor1@example.com",
+    "title": "Craft Beer Specialist",
+    "phone": "+1-555-111-2222",
+    "logo": "https://images.pexels.com/photos/1269025/pexels-photo-1269025.jpeg",
+    "banner": "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg",
+    "description": "Home of the finest craft beers. We specialize in locally brewed craft beers and imported premium lagers. Our selection includes IPAs, stouts, ales, and seasonal specialties.",
+    "address": "123 Beer Lane, Hops City, CA 90210",
+    "isApproved": true,
+    "categories": ["beer", "ale", "lager"]
+  },
+  {
+    "id": "v2",
+    "name": "Vine & Wine Co",
+    "email": "vendor2@example.com",
+    "title": "Premium Wine Collection",
+    "phone": "+1-555-222-3333",
+    "logo": "https://images.pexels.com/photos/1123260/pexels-photo-1123260.jpeg",
+    "banner": "https://images.pexels.com/photos/1407846/pexels-photo-1407846.jpeg",
+    "description": "Your destination for exquisite wines from around the world. From elegant Chardonnays to bold Cabernets, we offer a curated selection of premium wines.",
+    "address": "456 Vineyard Road, Napa Valley, CA 94558",
+    "isApproved": true,
+    "categories": ["wine", "red wine", "white wine", "sparkling"]
+  },
+  {
+    "id": "v3",
+    "name": "Spirits Corner",
+    "email": "vendor3@example.com",
+    "title": "Premium Spirits & Whiskey",
+    "phone": "+1-555-333-4444",
+    "logo": "https://images.pexels.com/photos/602750/pexels-photo-602750.jpeg",
+    "banner": "https://images.pexels.com/photos/3009789/pexels-photo-3009789.jpeg",
+    "description": "Specializing in premium spirits including whiskey, bourbon, scotch, and rum. We carry rare editions and aged spirits for the discerning connoisseur.",
+    "address": "789 Spirit Street, Bourbon Town, KY 40202",
+    "isApproved": true,
+    "categories": ["whiskey", "bourbon", "scotch", "rum"]
+  },
+  {
+    "id": "v4",
+    "name": "Crystal Vodka Emporium",
+    "email": "vendor4@example.com",
+    "title": "Vodka Specialists",
+    "phone": "+1-555-444-5555",
+    "logo": "https://images.pexels.com/photos/1194427/pexels-photo-1194427.jpeg",
+    "banner": "https://images.pexels.com/photos/2795026/pexels-photo-2795026.jpeg",
+    "description": "Your premier source for premium vodka. From classic Russian vodkas to modern craft distillations, we offer the finest selection.",
+    "address": "321 Vodka Avenue, Moscow Springs, NY 10001",
+    "isApproved": true,
+    "categories": ["vodka", "flavored vodka"]
+  },
+  {
+    "id": "v5",
+    "name": "Gin Gardens",
+    "email": "vendor5@example.com",
+    "title": "Artisan Gin Collection",
+    "phone": "+1-555-555-6666",
+    "logo": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
+    "banner": "https://images.pexels.com/photos/2912108/pexels-photo-2912108.jpeg",
+    "description": "Discover the world of premium gins. From London Dry to craft small-batch gins, we feature unique botanical blends from master distillers.",
+    "address": "654 Juniper Lane, Botanical City, OR 97201",
+    "isApproved": true,
+    "categories": ["gin", "craft gin"]
+  },
+  {
+    "id": "v6",
+    "name": "Cocktail Central",
+    "email": "vendor6@example.com",
+    "title": "Cocktail Mixes & Kits",
+    "phone": "+1-555-666-7777",
+    "logo": "https://images.pexels.com/photos/1304540/pexels-photo-1304540.jpeg",
+    "banner": "https://images.pexels.com/photos/1089930/pexels-photo-1089930.jpeg",
+    "description": "Everything you need for perfect cocktails at home. Premium mixes, garnishes, and complete cocktail kits for every occasion.",
+    "address": "987 Mixology Boulevard, Cocktail City, FL 33101",
+    "isApproved": true,
+    "categories": ["cocktails", "mixers", "cocktail kits"]
+  },
+  {
+    "id": "v7",
+    "name": "New Spirits Outlet",
+    "email": "newvendor@example.com",
+    "title": "Budget Liquor Store",
+    "phone": "+1-555-777-8888",
+    "logo": "https://images.pexels.com/photos/1089932/pexels-photo-1089932.jpeg",
+    "banner": "https://images.pexels.com/photos/1170599/pexels-photo-1170599.jpeg",
+    "description": "Affordable spirits and liquor for everyone. We offer great prices on popular brands.",
+    "address": "147 Budget Street, Savings Town, TX 75201",
+    "isApproved": false,
+    "categories": ["vodka", "beer", "wine"]
+  }
+]

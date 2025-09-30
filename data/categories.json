@@ -1,0 +1,44 @@
+[
+  {
+    "id": "beer",
+    "name": "Beer",
+    "slug": "beer",
+    "description": "Craft beers, lagers, ales, and more",
+    "image": "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "slug": "wine", 
+    "description": "Red, white, rosé, and sparkling wines",
+    "image": "https://images.pexels.com/photos/434311/pexels-photo-434311.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "whiskey",
+    "name": "Whiskey",
+    "slug": "whiskey",
+    "description": "Bourbon, scotch, rye, and premium whiskeys",
+    "image": "https://images.pexels.com/photos/602750/pexels-photo-602750.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "vodka",
+    "name": "Vodka",
+    "slug": "vodka",
+    "description": "Premium and flavored vodkas",
+    "image": "https://images.pexels.com/photos/5947043/pexels-photo-5947043.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "slug": "rum",
+    "description": "Dark, white, and spiced rums",
+    "image": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "slug": "gin",
+    "description": "Classic and botanical gins",
+    "image": "https://images.pexels.com/photos/2647933/pexels-photo-2647933.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
